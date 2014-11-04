@@ -1,4 +1,4 @@
 BossCMS
 =======
 
-A CMS framework based on Erlang / ChicagoBoss Framework
+A CMS based on Erlang / ChicagoBoss Framework
